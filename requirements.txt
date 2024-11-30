@@ -1,0 +1,4 @@
+discord.py
+aiofiles
+beautifulsoup4
+requests
