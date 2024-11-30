@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bakalaricek
+# Bakaláříček
 
 ![GitHub License](https://img.shields.io/github/license/MortikCZ/Bakalaricek)
 ![GitHub repo size](https://img.shields.io/github/repo-size/MortikCZ/Bakalaricek)
