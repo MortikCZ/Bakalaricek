@@ -10,7 +10,7 @@ Discord bot pro zásílání zpráv o změnách v rozvrhu ze systému [Bakalář
 
 </div>
 
-## Základní informace
+## Základní informace 
 
 - Bot je napsán v jazyce Python s využitím knihovny [discord.py](https://discordpy.readthedocs.io/en/stable/).
 - Bot je určen pro zasílání notifikací o změnách v rozvrhu ze systému [Bakaláři](https://bakalari.cz/).
@@ -27,7 +27,7 @@ Discord bot pro zásílání zpráv o změnách v rozvrhu ze systému [Bakalář
     "next_week_timetable_url": "https://bakalari.skola.cz/bakaweb/Timetable/Public/Next/Class/4U",
     "notification_channel_id": ID_kanálu_pro_notifikace,
     "role_id": ID_role_pro_notifikace,
-    "status": "Můžete nechat prázdné."
+    "status": "status_bota"
 }
 ```
 3. Vyplňte
@@ -42,4 +42,8 @@ Discord bot pro zásílání zpráv o změnách v rozvrhu ze systému [Bakalář
 ## Příkazy
 
 - `/status <status>` - nastaví status Právě hraje.
+
+## Verze vydání
+- ### [v1.0.0](https://github.com/MortikCZ/Bakalaricek/releases/tag/v1.0.0)
+  - První release
 
